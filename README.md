@@ -11,7 +11,7 @@ Utilizou-se as dependencias: Spring Web, Spring Data JPA, H2 Database e Lombok.
 
 ## Development server
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4073/`. The app will automatically reload if you change any of the source files.
+Run `ng serve` for a dev server. Navigate to `http://localhost:8087/`. The app will automatically reload if you change any of the source files.
 
 ### Maven Project usando Java versao 11
 ng --version
